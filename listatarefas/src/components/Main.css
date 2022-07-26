@@ -47,7 +47,7 @@
   align-items: center;
   justify-content: space-between;
   padding: 10px;
-  transition: all 600ms;
+  transition: all 1000ms;
 }
 
 .tarefas li:hover {
@@ -72,7 +72,7 @@
 .tarefas li .edit,
 .tarefas li .delete {
   cursor: pointer;
-  transition: all 600ms;
+  transition: all 1000ms;
 }
 
 .tarefas li span {
