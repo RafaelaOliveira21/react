@@ -34,5 +34,6 @@ module.exports = {
     'react/state-in-constructor': 0,
     'react/react-in-jsx-scope': 'off',
     'prettier/prettier': ['error'],
+    'react/prop-types': 0,
   },
 };
